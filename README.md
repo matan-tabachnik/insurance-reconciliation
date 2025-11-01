@@ -204,5 +204,5 @@ faker>=20.0.0
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile](https://github.com/matan-tabachnik)
+M - [Your GitHub Profile](https://github.com/matan-tabachnik)
 
